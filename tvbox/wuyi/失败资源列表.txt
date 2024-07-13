@@ -1,0 +1,2 @@
+http://rihou.cc:88/hccx/Api.js
+http://rihou.cc:88/hccx/Doubanrebo.js
