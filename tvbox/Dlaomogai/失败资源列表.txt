@@ -1,0 +1,8 @@
+http://rihou.cc:555/sdtv.js
+http://rihou.cc:555/517sdtv.txt
+http://rihou.cc:555/sdtv.jar
+http://rihou.cc:555/pg.jar
+http://rihou.cc:555/youtube.json
+http://rihou.cc:555/JRKAN2.js
+http://rihou.cc:555/JRKAN.js
+http://rihou.cc:555/JRKAN.jar
