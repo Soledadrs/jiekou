@@ -1,25 +1,25 @@
-﻿{ "urls": [{ "url": "clan://localhost/Download/BroWser/tvboxqq/饭太硬/api.json", "name": "饭太硬" },
+﻿{ "urls": [{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvboxqq/%E9%A5%AD%E5%A4%AA%E7%A1%AC/api.json", "name": "饭太硬" },
 
-{ "url": "clan://localhost/Download/BroWser/tvboxqq/小米/api.json", "name": "小米" },
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvboxqq/%E5%B0%8F%E7%B1%B3/api.json", "name": "小米" },
 
-{ "url": "clan://localhost/Download/BroWser/tvboxqq/肥猫/api.json", "name": "肥猫" },
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvboxqq/%E8%82%A5%E7%8C%AB/api.json", "name": "肥猫" },
 
-{ "url": "clan://localhost/Download/BroWser/tvboxqq/王二小/api.json", "name": "王二小" },
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvboxqq/%E7%8E%8B%E4%BA%8C%E5%B0%8F/api.json", "name": "王二小" },
 
-{ "url": "clan://localhost/Download/BroWser/tvboxqq/PG/api.json", "name": "PG" },
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvboxqq/PG/api.json", "name": "PG" },
 
-{ "url": "clan://localhost/Download/BroWser/tvboxqq/香雅情/api.json", "name": "香雅情" },
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvboxqq/%E9%A6%99%E9%9B%85%E6%83%85/api.json", "name": "香雅情" },
 
-{ "url": "clan://localhost/Download/BroWser/tvboxqq/南风/api.json", "name": "南风" },
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvboxqq/%E5%8D%97%E9%A3%8E/api.json", "name": "南风" },
 
-{ "url": "clan://localhost/Download/BroWser/tvboxqq/骚零/api.json", "name": "骚零" },
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvboxqq/%E9%AA%9A%E9%9B%B6/api.json", "name": "骚零" },
 
-{ "url": "clan://localhost/Download/BroWser/tvboxqq/OK/api.json", "name": "OK" },
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvboxqq/OK/api.json", "name": "OK" },
 
-{ "url": "clan://localhost/Download/BroWser/tvboxqq/白嫖/api.json", "name": "白嫖" },
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvboxqq/%E7%99%BD%E5%AB%96/api.json", "name": "白嫖" },
 
-{ "url": "clan://localhost/Download/BroWser/tvboxqq/天天开心/api.json", "name": "天天开心" },
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvboxqq/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/api.json", "name": "天天开心" },
 
-{ "url": "clan://localhost/Download/BroWser/tvboxqq/少儿频道/api.json", "name": "少儿频道" },
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvboxqq/%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93/api.json", "name": "少儿频道" },
 
-{ "url": "clan://localhost/Download/BroWser/tvboxqq/动漫频道/api.json", "name": "动漫频道" }]}
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvboxqq/%E5%8A%A8%E6%BC%AB%E9%A2%91%E9%81%93/api.json", "name": "动漫频道" }]}
