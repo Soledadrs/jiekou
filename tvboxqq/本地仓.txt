@@ -1,5 +1,11 @@
 ﻿{ "urls": [{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvboxqq/%E9%A5%AD%E5%A4%AA%E7%A1%AC/api.json", "name": "饭太硬" },
 
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/soloTVBox/bc.json", "name": "bc" },
+
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/soloTVBox/ts.json", "name": "ts" },
+
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/soloTVBox/xm.json", "name": "xm" },
+
 { "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvboxqq/%E5%B0%8F%E7%B1%B3/api.json", "name": "小米" },
 
 { "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvboxqq/%E8%82%A5%E7%8C%AB/api.json", "name": "肥猫" },
