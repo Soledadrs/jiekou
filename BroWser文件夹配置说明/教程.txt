@@ -1,0 +1,3 @@
+刷机完毕之后，利用小白文件管理器，把BroWser文件夹包含里面所有的接口文件夹，一并移动到Download文件夹，并在tvbox软件中配置文件夹地址
+修改后的tvbox配置地址应该填为：
+clan://localhost/Download/BroWser/tvboxqq/本地仓.txt
