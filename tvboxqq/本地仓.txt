@@ -23,3 +23,57 @@
 { "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvboxqq/%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93/api.json", "name": "少儿频道" },
 
 { "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvboxqq/%E5%8A%A8%E6%BC%AB%E9%A2%91%E9%81%93/api.json", "name": "动漫频道" }]}
+
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/Dlaomogai/Dlaomogai.json", "name": "D佬魔改" },
+
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/daozhang/daozhang.json", "name": "道长" },
+
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/dongchen/dongchen.json", "name": "东辰" },
+
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/erha/erha.json", "name": "二哈" },
+
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/feimao/feimao.json", "name": "肥猫" },
+
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/fty/fty.json", "name": "饭太硬" },
+
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/gaotianliuyun/gaotianliuyun.json", "name": "高天流云" },
+
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/junlao/junlao.json", "name": "俊佬" },
+
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/kandianying/kandianying.json", "name": "看电影" },
+
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/laoliubei/laoliubei.json", "name": "老刘备" },
+
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/miaoyingshi/miaoyingshi.json", "name": "猫影视" },
+
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/moyu/moyu.json", "name": "摸鱼" }]}
+
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/nanfeng/nanfeng.json", "name": "南风" },
+
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/ouge/ouge.json", "name": "欧歌" },
+
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/PG/PG.json", "name": "PG" },
+
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/qiaoji/qiaoji.json", "name": "巧技" },
+
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/Ray/Ray.json", "name": "Ray" },
+
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/shenxian/shenxian.json", "name": "神仙" },
+
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/taipingyang/taipingyang.json", "name": "太平洋" },
+
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/tianwei/tianwei.json", "name": "天微" },
+
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/wanda/wanda.json", "name": "万达" },
+
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/wuai/wuai.json", "name": "吾爱" },
+
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/wuyi/wuyi.json", "name": "无意" },
+
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/xiangyaqing/xiangyaqing.json", "name": "香雅情" }]}
+
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/xiaoma/xiaoma.json", "name": "小马" },
+
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/xiaosa/xiaosa.json", "name": "潇洒" },
+
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/yeyu/yeyu.json", "name": "业余" }]}
