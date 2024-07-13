@@ -1,0 +1,12 @@
+https://raw.fgit.cf/2hacc/TVBox/main/live/live.txt
+https://raw.fgit.cf/2hacc/TVBox/main/json/nmys.json
+https://raw.fgit.cf/2hacc/TVBox/main/json/虎牙直播.json
+https://raw.fgit.cf/2hacc/TVBox/main/json/斗鱼直播.json
+https://raw.fgit.cf/2hacc/TVBox/main/json/企鹅直播.json
+https://raw.fgit.cf/2hacc/TVBox/main/json/Biliych.json
+https://raw.fgit.cf/2hacc/TVBox/main/json/短视频.json
+https://raw.fgit.cf/2hacc/TVBox/main/json/幼儿乐园.json
+https://raw.fgit.cf/2hacc/TVBox/main/json/少儿教育.json
+https://raw.fgit.cf/2hacc/TVBox/main/json/小学课堂.json
+https://raw.fgit.cf/2hacc/TVBox/main/json/初中课堂.json
+https://raw.fgit.cf/2hacc/TVBox/main/json/高中课堂.json

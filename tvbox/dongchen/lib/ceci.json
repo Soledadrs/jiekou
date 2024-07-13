@@ -1,0 +1,41 @@
+{
+            
+        "主页url":"https://www.cecidy.cc/",
+        
+        "数组":"myui-vodlist__box&&</a>",
+        
+        "标题":"title=\"&&\"",
+    
+        "副标题":"text-right\"&&</span>",
+  
+        "图片":"data-original=\"&&\"",
+    
+        "链接":"href=\"&&\"",
+    
+        "搜索url":"/vodsearch/-------------/?wd={wd}",
+    
+        "搜索数组":"myui-vodlist__thumb&&</a>",
+    
+        "搜索标题":"title=\"&&\"",
+    
+        "搜索副标题":"text-right\">&&</span>",
+    
+        "搜索图片":"data-original=\"&&\"",
+    
+        "搜索链接":"href=\"&&\"",
+    
+        "线路数组":"#playlist&&</li>[不包含:无尽资源#八戒资源#淘片资源#天空云播]",
+    
+        "线路标题":">&&</a>",
+    
+        "播放数组":"<ul class=\"myui-content__list&&</ul>",
+    
+        "播放标题":">&&</a>",
+    
+        "播放列表":"<li&&</li>",
+    
+        "分类url":"https://www.cecidy.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;ak",
+    
+        "分类":"电影$1#电视剧$2#综艺$3#动漫$4"
+   
+ }
