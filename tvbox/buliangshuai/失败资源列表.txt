@@ -1,0 +1,6 @@
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/js/lf_search3_min.js
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/js/lf_p2p1_min.js
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/cat/bili_bytecode3.js
+https://mirror.ghproxy.com/https://github.com/catvod/CatVodOpen/blob/main/open%2Fbili_open.js
+https://gh-proxy.com/raw.githubusercontent.com/mygoww/xoxo/main/音范丝.json
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/js/短剧网.js
