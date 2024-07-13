@@ -22,7 +22,7 @@
 
 { "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvboxqq/%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93/api.json", "name": "少儿频道" },
 
-{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvboxqq/%E5%8A%A8%E6%BC%AB%E9%A2%91%E9%81%93/api.json", "name": "动漫频道" }]}
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvboxqq/%E5%8A%A8%E6%BC%AB%E9%A2%91%E9%81%93/api.json", "name": "动漫频道" },
 
 { "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/Dlaomogai/Dlaomogai.json", "name": "D佬魔改" },
 
@@ -46,7 +46,7 @@
 
 { "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/miaoyingshi/miaoyingshi.json", "name": "猫影视" },
 
-{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/moyu/moyu.json", "name": "摸鱼" }]}
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/moyu/moyu.json", "name": "摸鱼" },
 
 { "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/nanfeng/nanfeng.json", "name": "南风" },
 
@@ -70,7 +70,7 @@
 
 { "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/wuyi/wuyi.json", "name": "无意" },
 
-{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/xiangyaqing/xiangyaqing.json", "name": "香雅情" }]}
+{ "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/xiangyaqing/xiangyaqing.json", "name": "香雅情" },
 
 { "url": "https://cdn.jsdelivr.net/gh/Soledadrs/jiekou@main/tvbox/xiaoma/xiaoma.json", "name": "小马" },
 
