@@ -1,0 +1,107 @@
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1,tvg-id="1905-EN_US" tvg-name="1905-EN_US" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png" group-title="其他",        ul
+ ol
+#EXTINF:-1,tvg-id="AHTV" tvg-name="AHTV" tvg-logo="https://epg.v1.mk/logo/AHTV.png" group-title="其他",        html
+ body {
+#EXTINF:-1,tvg-id="ADITHYA" tvg-name="ADITHYA" tvg-logo="https://epg.v1.mk/logo/ADITHYA.png" group-title="其他",        address
+ caption
+#EXTINF:-1,tvg-id="154CINEMAWORLD" tvg-name="154CINEMAWORLD" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png" group-title="其他",        input
+ button
+#EXTINF:-1,tvg-id="154CINEMAWORLD" tvg-name="154CINEMAWORLD" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png" group-title="其他",        input
+ button {
+#EXTINF:-1,tvg-id="ABO Movies Thangathirai" tvg-name="ABO Movies Thangathirai" tvg-logo="https://epg.v1.mk/logo/ABO Movies Thangathirai.png" group-title="其他",        body
+ th
+#EXTINF:-1,tvg-id="PHOENIXINFONEWS" tvg-name="PHOENIXINFONEWS" tvg-logo="https://epg.v1.mk/logo/PHOENIXINFONEWS.png" group-title="其他",            font-family: "Microsoft Yahei"
+ "Hiragino Sans GB"
+#EXTINF:-1,tvg-id="FH1" tvg-name="FH1" tvg-logo="https://epg.v1.mk/logo/FH1.png" group-title="其他",        h1
+ h2
+#EXTINF:-1,tvg-id="a66187aa-3283-4083-9d0c-668757967a3a" tvg-name="a66187aa-3283-4083-9d0c-668757967a3a" tvg-logo="https://epg.v1.mk/logo/a66187aa-3283-4083-9d0c-668757967a3a.png" group-title="其他",        a
+ area {
+#EXTINF:-1,tvg-id="154CINEMAWORLD" tvg-name="154CINEMAWORLD" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png" group-title="其他",        a:hover
+ a:active {
+#EXTINF:-1,tvg-id="ASTROSUPERSPORT2" tvg-name="ASTROSUPERSPORT2" tvg-logo="https://epg.v1.mk/logo/ASTROSUPERSPORT2.png" group-title="其他",        sub
+ sup {
+#EXTINF:-1,tvg-id="AIMS" tvg-name="AIMS" tvg-logo="https://epg.v1.mk/logo/AIMS.png" group-title="其他",        a img
+ img {
+#EXTINF:-1,tvg-id="ALL THE K-POP" tvg-name="ALL THE K-POP" tvg-logo="https://epg.v1.mk/logo/ALL THE K-POP.png" group-title="其他",        header
+ footer
+#EXTINF:-1,tvg-id="ABCAUS" tvg-name="ABCAUS" tvg-logo="https://epg.v1.mk/logo/ABCAUS.png" group-title="其他",        audio
+ canvas
+#EXTINF:-1,tvg-id="154CINEMAWORLD" tvg-name="154CINEMAWORLD" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png" group-title="其他",        input[type=number]::-webkit-inner-spin-button
+ input[type=number]::-webkit-outer-spin-button {
+#EXTINF:-1,tvg-id="154CINEMAWORLD" tvg-name="154CINEMAWORLD" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png" group-title="其他",        input[type=search]::-webkit-search-cancel-button
+ input[type=search]::-webkit-search-decoration {
+#EXTINF:-1,tvg-id="154CINEMAWORLD" tvg-name="154CINEMAWORLD" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png" group-title="其他",        input.fix-autofill-bg:-webkit-autofill
+ textarea.fix-autofill-bg:-webkit-autofill
+#EXTINF:-1,tvg-id="PURETABOO" tvg-name="PURETABOO" tvg-logo="https://epg.v1.mk/logo/PURETABOO.png" group-title="其他",        table th
+ table td {
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",        .cl:after
+ .clearfix:after {
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",        .cl
+ .clearfix {
+#EXTINF:-1,tvg-id="FH1" tvg-name="FH1" tvg-logo="https://epg.v1.mk/logo/FH1.png" group-title="其他",        h1
+ h2
+#EXTINF:-1,tvg-id="FH1" tvg-name="FH1" tvg-logo="https://epg.v1.mk/logo/FH1.png" group-title="其他",        h1 small
+ h2 small
+#EXTINF:-1,tvg-id="FH1" tvg-name="FH1" tvg-logo="https://epg.v1.mk/logo/FH1.png" group-title="其他",        h1
+ h2
+#EXTINF:-1,tvg-id="FH1" tvg-name="FH1" tvg-logo="https://epg.v1.mk/logo/FH1.png" group-title="其他",        h1 small
+ h2 small
+#EXTINF:-1,tvg-id="ASH4K" tvg-name="ASH4K" tvg-logo="https://epg.v1.mk/logo/ASH4K.png" group-title="其他",        h4
+ h5
+#EXTINF:-1,tvg-id="ASH4K" tvg-name="ASH4K" tvg-logo="https://epg.v1.mk/logo/ASH4K.png" group-title="其他",        h4 small
+ h5 small
+#EXTINF:-1,tvg-id="b83e99f1c8a9aaf5e32a09398788c41fa522d06c" tvg-name="b83e99f1c8a9aaf5e32a09398788c41fa522d06c" tvg-logo="https://epg.v1.mk/logo/b83e99f1c8a9aaf5e32a09398788c41fa522d06c.png" group-title="其他",        b
+ strong {
+#EXTINF:-1,tvg-id="BBCSCOT" tvg-name="BBCSCOT" tvg-logo="https://epg.v1.mk/logo/BBCSCOT.png" group-title="其他",        code
+ kbd
+#EXTINF:-1,tvg-id="PHOENIXINFONEWS" tvg-name="PHOENIXINFONEWS" tvg-logo="https://epg.v1.mk/logo/PHOENIXINFONEWS.png" group-title="其他",            font-family: monospace
+ serif;
+#EXTINF:-1,tvg-id="PHOENIXINFONEWS" tvg-name="PHOENIXINFONEWS" tvg-logo="https://epg.v1.mk/logo/PHOENIXINFONEWS.png" group-title="其他",            font-family: Monaco
+ Menlo
+#EXTINF:-1,tvg-id="68921C3A-9906-4B8A-82AB-63EA19B8F4FE" tvg-name="68921C3A-9906-4B8A-82AB-63EA19B8F4FE" tvg-logo="https://epg.v1.mk/logo/68921C3A-9906-4B8A-82AB-63EA19B8F4FE.png" group-title="其他",        abbr[title]
+ abbr[data-original-title] {
+#EXTINF:-1,tvg-id="MTVBLOCKPARTY" tvg-name="MTVBLOCKPARTY" tvg-logo="https://epg.v1.mk/logo/MTVBLOCKPARTY.png" group-title="其他",        blockquote.text-r p
+ blockquote.text-r small {
+#EXTINF:-1,tvg-id="4KCGQDY" tvg-name="4KCGQDY" tvg-logo="https://epg.v1.mk/logo/4KCGQDY.png" group-title="其他",        q:before
+ q:after
+#EXTINF:-1,tvg-id="ASTROSUPERSPORT2" tvg-name="ASTROSUPERSPORT2" tvg-logo="https://epg.v1.mk/logo/ASTROSUPERSPORT2.png" group-title="其他",        sub
+ sup {
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",        .placeholder
+ .common-input.placeholder {
+#EXTINF:-1,tvg-id="1905-EN_US" tvg-name="1905-EN_US" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png" group-title="其他",        ul.unstyled
+ ol.unstyled {
+#EXTINF:-1,tvg-id="1905-EN_US" tvg-name="1905-EN_US" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png" group-title="其他",        ul.inline
+ ol.inline {
+#EXTINF:-1,tvg-id="1905-EN_US" tvg-name="1905-EN_US" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png" group-title="其他",        ul.inline > li
+ ol.inline > li {
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",        .l
+ .f-l
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",        .r
+ .f-r
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",        //����query��dm
+���޷���host
+#EXTINF:-1,tvg-id="CHONGQING2" tvg-name="CHONGQING2" tvg-logo="https://epg.v1.mk/logo/CHONGQING2.png" group-title="其他",            host = host.replace("www."
+"");
+#EXTINF:-1,tvg-id="4E4A20A4462309F790521146E8471BF3D7CA7BCB7807" tvg-name="4E4A20A4462309F790521146E8471BF3D7CA7BCB7807" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png" group-title="其他",            F.suffix.value = arrext.join('
+');
+#EXTINF:-1,tvg-id="ARABICRADIO&TVVARIETY" tvg-name="ARABICRADIO&TVVARIETY" tvg-logo="https://epg.v1.mk/logo/ARABICRADIO&TVVARIETY.png" group-title="其他",                var val = arrList[i].replace(/\s/g
+ '');
+#EXTINF:-1,tvg-id="TVALHIJRAH" tvg-name="TVALHIJRAH" tvg-logo="https://epg.v1.mk/logo/TVALHIJRAH.png" group-title="其他",                val = val.replace(/^\http://xiaohu.xzam.cn/
+ '');
+#EXTINF:-1,tvg-id="TVALHIJRAH" tvg-name="TVALHIJRAH" tvg-logo="https://epg.v1.mk/logo/TVALHIJRAH.png" group-title="其他",                val = val.replace(/\.$/
+ '');
+#EXTINF:-1,tvg-id="TVALHIJRAH" tvg-name="TVALHIJRAH" tvg-logo="https://epg.v1.mk/logo/TVALHIJRAH.png" group-title="其他",                val = val.replace(/\.[a-z]{2
+3}\.cn$/
+#EXTINF:-1,tvg-id="AIFM" tvg-name="AIFM" tvg-logo="https://epg.v1.mk/logo/AIFM.png" group-title="其他",                if (val.indexOf('.') >= 0) val = val.substr(0
+ val.lastIndexOf('.'));
+#EXTINF:-1,tvg-id="AIFM" tvg-name="AIFM" tvg-logo="https://epg.v1.mk/logo/AIFM.png" group-title="其他",                if (val.indexOf('.') >= 0) val = val.substr(0
+ val.lastIndexOf('.'));
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",    <script>LA.init({id:"K0V5Y2YAHiVadQcC"
+ck:"K0V5Y2YAHiVadQcC"})</script>
+#EXTINF:-1,tvg-id="ALL THE K-POP" tvg-name="ALL THE K-POP" tvg-logo="https://epg.v1.mk/logo/ALL THE K-POP.png" group-title="其他",The domain name you visited has expired
+ please contact the domain name registrar as soon as possible to renew the domain name.</span>
+#EXTINF:-1,tvg-id="DONGSENAMERICA" tvg-name="DONGSENAMERICA" tvg-logo="https://epg.v1.mk/logo/DONGSENAMERICA.png" group-title="其他",                       name="searchedDomainName" placeholder="�����������ѯ������������west.cn" autocomplete="off" style="color: rgb(186
+ 186
+#EXTINF:-1,tvg-id="1562605316-REDIS-DATA-TYPES" tvg-name="1562605316-REDIS-DATA-TYPES" tvg-logo="https://epg.v1.mk/logo/1562605316-REDIS-DATA-TYPES.png" group-title="其他",        s.parentNode.insertBefore(hm
+ s);
